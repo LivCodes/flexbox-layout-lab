@@ -1,11 +1,13 @@
 body {
     height: 700px;
     width: 1152px;
+    margin: auto;
 }
 
 
 .container {
-    background-color: azure;
+    background-color:#F08080;
+    
 }
 .dot{
     background-color:pink;
@@ -13,10 +15,17 @@ body {
     width:150px;
     border-radius:50%;
     display:inline-block;
+    margin: auto;
 
 }
 .b{
     border:1px solid grey;
-    background:grey
+    background: grey;
+    padding: 30px;
 ;
+}
+
+.image{
+    max-height: 250px;
+    max-width: 250px;
 }
