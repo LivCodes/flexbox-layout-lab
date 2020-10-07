@@ -7,3 +7,16 @@ body {
 .container {
     background-color: azure;
 }
+.dot{
+    background-color:pink;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    display:inline-block;
+
+}
+.b{
+    border:1px solid grey;
+    background:grey
+;
+}
